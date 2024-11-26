@@ -1,0 +1,16 @@
+{
+  "uploademp": [
+    {
+      "id": "a8cc",
+      "Name": "Nizamudheen vk",
+      "Role": "developer",
+      "Status": "Active"
+    },
+    {
+      "id": "98ff",
+      "Name": "Hussain",
+      "Role": "engeneer",
+      "Status": "Inactive"
+    }
+  ]
+}
